@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "@presta-example/vercel",
+  "scripts": {
+    "start": "presta dev",
+    "build": "presta"
+  },
+  "devDependencies": {
+    "@presta/adapter-vercel": "^0.1.0",
+    "presta": "^0.43.6"
+  },
+  "version": null,
+  "dependencies": {
+    "@presta/html": "^0.2.0"
+  }
+}
