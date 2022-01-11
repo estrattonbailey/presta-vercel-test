@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@presta/adapter-vercel': ^0.1.0
+  '@presta/adapter-vercel': ^0.1.1
   '@presta/html': ^0.2.0
   presta: ^0.43.6
 
@@ -9,7 +9,7 @@ dependencies:
   '@presta/html': 0.2.0
 
 devDependencies:
-  '@presta/adapter-vercel': 0.1.0
+  '@presta/adapter-vercel': 0.1.1
   presta: 0.43.6
 
 packages:
@@ -18,8 +18,8 @@ packages:
     resolution: {integrity: sha512-a5Sab1C4/icpTZVzZc5Ghpz88yQtGOyNqYXcZgOssB2uuAr+wF/MvN6bgtW32q7HHrvBki+BsZ0OuNv6EV3K9g==}
     dev: true
 
-  /@presta/adapter-vercel/0.1.0:
-    resolution: {integrity: sha512-JXBIIxQJS2JZvo5YaHUQaaXozVE4KHUsIW9bu5hgzQFoOP8ZQiyamPYIj02NTqN6bGYoZa1TaWf54z0iQ2aF7Q==}
+  /@presta/adapter-vercel/0.1.1:
+    resolution: {integrity: sha512-jq2bosb89fd8nMC1ZmbCeH8/RuBfz85ZYwdWcVnm35d74xL1T7SRw4PDLKdowsDL+1pd8aJ0w85g3uglHVSbnw==}
     dependencies:
       deep-extend: 0.6.0
       fs-extra: 9.1.0
