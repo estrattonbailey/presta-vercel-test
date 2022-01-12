@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@presta/adapter-vercel": "^0.1.6",
-    "presta": "^0.43.6"
+    "presta": "^0.43.8"
   },
   "version": null,
   "dependencies": {
