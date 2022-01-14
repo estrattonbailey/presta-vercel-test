@@ -4,9 +4,7 @@ import { html } from '@presta/html'
 import { Nav } from '../components/Nav'
 import { link } from '../utils/documentProperties'
 
-export function getStaticPaths() {
-  return ['/']
-}
+export const route = '/'
 
 export function handler(event: Event) {
   return html({
