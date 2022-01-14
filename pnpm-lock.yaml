@@ -3,14 +3,14 @@ lockfileVersion: 5.3
 specifiers:
   '@presta/adapter-vercel': ^0.1.8
   '@presta/html': ^0.2.0
-  presta: ^0.43.8
+  presta: ^0.43.9
 
 dependencies:
   '@presta/html': 0.2.0
 
 devDependencies:
   '@presta/adapter-vercel': 0.1.8
-  presta: 0.43.8
+  presta: 0.43.9
 
 packages:
 
@@ -477,8 +477,8 @@ packages:
     hasBin: true
     dev: true
 
-  /presta/0.43.8:
-    resolution: {integrity: sha512-/0PPdIZGc3cVL2oRyV8AcX2BoxBwqZlrfaz0jdhYwhpylWT5YXbPq1WLZmeByLXJh7CsIjp+zLR/CFwslU7ekQ==}
+  /presta/0.43.9:
+    resolution: {integrity: sha512-95lPNTDNxlulnfzo4NS0LxyhV3oyJXQ0C8ck7Mr3hqzC8U8HlQAmMUW9Ii3i2vnKZJn+s+mPvD7iBvU4KioENA==}
     hasBin: true
     dependencies:
       chokidar: 3.5.2
