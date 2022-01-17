@@ -6,11 +6,11 @@
     "build": "presta"
   },
   "devDependencies": {
-    "@presta/adapter-vercel": "^0.1.9",
-    "presta": "^0.43.9"
+    "@presta/adapter-vercel": "^0.1.10",
+    "presta": "^0.43.10"
   },
   "version": null,
   "dependencies": {
-    "@presta/html": "^0.2.0"
+    "@presta/html": "^0.2.1"
   }
 }
